@@ -1,0 +1,10 @@
+﻿1st Dimension Time (s),2nd Dimension Time (s),RetentionTimes,QuantSignalToNoise,Group,Quant Masses,Area,Comment,Sample,AxisMax,SpeciesDetectedIn,StructuralClass,CompoundName
+1184.17,1.023,"1184.17 , 1.023",383.68,BC unknown,326,31118,potentially halogenated compound,MM07,350,"Striped dolphin, bottlenose dolphin",Unknown,Baja unknown 1
+1264.62,1.023,"1264.62 , 1.023",949.89,"BC unknown, toxaphene isomer?",247,113548,potentially halogenated compound,MM07,350,Striped dolphin,Unknown,Baja unknown 2
+1296.1,1.063,"1296.1 , 1.063",957.83,BC unknown,361,58113,potentially halogenated compound,MM07,450,"Striped dolphin, bottlenose dolphin",Unknown,Baja unknown 3
+1373.06,1.069,"1373.06 , 1.069",1024.9,BC unknown,423,172270,potentially halogenated compound,MM07,450,Striped dolphin,Unknown,Baja unknown 4
+1474.5,1.089,"1474.5 , 1.089",313.31,BC unknown,408,20041,potentially halogenated compound,MM07,450,Striped dolphin,Unknown,Baja unknown 5
+1586.44,1.393,"1586.44 , 1.393",260.86,BC unknown,276,62283,potentially halogenated compound,MM07,500,Striped dolphin,Unknown,Baja unknown 6
+1589.93,1.36,"1589.93 , 1.360",1121.7,BC unknown,420,79171,potentially halogenated compound,MM06,500,Bottlenose dolphin,Unknown,Baja unknown 7
+1614.42,1.749,"1614.42 , 1.749",278.21,BC unknown,406,28445,potentially halogenated compound,MM07,500,Striped dolphin,Unknown,Baja unknown 8
+1852.28,2.277,"1852.28 , 2.277",179.33,BC unknown,451,19641,potentially halogenated compound,MM07,500,Striped dolphin,Unknown,Baja unknown 9
